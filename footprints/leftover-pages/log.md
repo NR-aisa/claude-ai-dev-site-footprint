@@ -8,3 +8,6 @@
   FAIL, Virtual Assistant FAIL (Canvas by design).
 - Transparency footer: template changed Default→Full Width, caches
   purged — still not rendering live. Blocked (see readme.md).
+- 2026-11-19 09:26 UTC: visual logged-out re-check (side chat) —
+  STEP 3 now visible, footer still missing on post 9906 only.
+  Fix offered, awaiting yes; nothing edited.

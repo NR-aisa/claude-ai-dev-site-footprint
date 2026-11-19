@@ -22,8 +22,11 @@ what was done to the blog from the site side.
   Thompson, Lisa Garcia, James Carter, Emily Davis, Michael Brown,
   Jessica Wilson, David Miller. Assignments Nov 10–16: Mark,
   Sarah, Lisa, Alim, James, Emily, Michael. Jessica Wilson and
-  David Miller have 0 posts yet, next in rotation. Naimur appears
-  as author on NO post.
+  David Miller have 0 posts yet, next in rotation. For those
+  Nov 10–16 assignments Naimur appears as author on NO post —
+  but see Open below: the Nov 17–19 posts published through
+  WP Auto Blog have since shown blank/Naimur bylines, so do not
+  read this as "no post anywhere".
 - Author photos: Gravatar only — no upload field on this site, no
   author box on post pages (byline shows small circular avatar).
   Alim Karim and Abidul Shaon have real Gravatar photos; the 8
@@ -46,6 +49,21 @@ what was done to the blog from the site side.
   info@developers-organism.com, drop the WhatsApp number, leave
   Schedule a Call alone), awaiting yes. If approved it stops Day 9
   (2026-11-19) leaking; it does not fix live Day 7/8.
+- 2026-11-19 post ("Building AI Agents with Claude: From Prompt
+  to Production Feature", published 2026-11-19 09:00 UTC): the
+  same leaked line is live in its body — verified by text crawl
+  2026-11-19 10:22 UTC (line 216: "Schedule a Call
+  https://meet.rasia.pro/intro-call, email
+  contact@riseup-asia.com, WhatsApp +1 204 650 3141."). Byline
+  rendering is inconsistent between checks: a visual logged-out
+  check at 09:22 UTC read "By Naimur Rahman", while the 10:22 UTC
+  text extraction of /blog/ shows "By" with no name. Re-check
+  visually before any author change; do not claim one byline
+  from text extraction alone. Next scheduled post: 2026-11-20
+  09:00 UTC. The correct author for the Nov 19 post is NOT
+  recorded (rotation after David Miller is not established).
+  Day-number note: tracking calls Nov 19 "Day 9"; the 30-day
+  plan file lists it as Day 10 — use date + title.
 - Days 6–30 move from 09:00 to 14:00: user said "ok start"
   2026-11-15 — read as go-ahead for the time move, NOT as approval
   of the recovery step. (Blog-chat scope.)

@@ -28,14 +28,21 @@ pages done properly according to the master plan").
   (files stay in Media Library).
 
 ## Unresolved — transparency page footer (post 9906)
-Live page shows no site footer, no in-content footer, and STEP 3
-missing live (STEP 1/2 only appear after scrolling). Tried:
+Live page shows no site footer and no in-content footer.
+STEP 3 was missing live in the 2026-11-16 QA, but a visual
+logged-out re-check on 2026-11-19 (side chat, 09:26 UTC) found
+"STEP 3 / Getting a Trusted Endorsement (Real Proof)" now
+visible mid-page after Step 1/2, while the footer is still
+missing (page ends at the JOIN US TODAY block; homepage footer
+renders fine, so this is per-page on post 9906). Tried:
 template Default→Full Width (lead form now renders), Disable
 Footer No, footer #10668 Entire site/Published, all WP caches
-purged. Likely stale edge cache above WordPress (no Cloudflare API
-key to purge) and/or unsaved Elementor preview changes, or a
-WPCode/HFCM snippet that could not be checked (access denied).
-Needs host/Cloudflare purge or owner re-publishing footer #10668.
+purged. Likely stale edge cache above WordPress (no Cloudflare
+API key to purge) and/or unsaved Elementor preview changes, or
+a WPCode/HFCM snippet that could not be checked (access
+denied). Needs host/Cloudflare purge or owner re-publishing
+footer #10668. A post-9906-only investigation/fix was offered
+2026-11-19, awaiting the user's yes — no edit made.
 
 ## Design notes
 - Sales With SEO (7753) and Virtual Assistant (9607) are Elementor

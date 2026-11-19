@@ -33,3 +33,9 @@
 - 2026-11-17/18: Day 7 and Day 8 published with the leaked prompt
   line and blank bylines (see readme.md — open).
 - 2026-11-18: author photos collected (see author-photos/).
+- 2026-11-19 10:22 UTC: Nov 19 post re-checked by text crawl —
+  leaked line still live at body line 216; /blog/ extraction
+  shows "By" with no name (visual check at 09:22 UTC read
+  Naimur Rahman — discrepancy recorded in readme.md, not
+  resolved). No edits made; prompt fix + cleanup still awaiting
+  the user's yes (offers sent 2026-11-17 and 2026-11-18).

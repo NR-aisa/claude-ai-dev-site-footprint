@@ -22,3 +22,11 @@
 - WP Auto Blog: account wp.autoblog@riseup-asia.com, Lifetime
   Level 14 – 10000 articles/month, site ID 38720, Connected
   2026-11-09 via Application Password as Naimur Rahman.
+- 2026-11-19 post: "Building AI Agents with Claude: From Prompt
+  to Production Feature",
+  https://claude-ai-dev.developers-organism.com/building-ai-agents-with-claude-from-prompt-to-production-feature/
+  — leaked prompt line verified live 2026-11-19 10:22 UTC at
+  body line 216 (see readme.md). Previous post 2026-11-18:
+  "Claude Agent SDK Explained: Sub-Agents, Tools, and Workflows
+  That Ship",
+  https://claude-ai-dev.developers-organism.com/claude-agent-sdk-explained-sub-agents-tools-and-workflows-that-ship/
